@@ -1,5 +1,6 @@
 # ide
 .devcontainer
+.vscode
 
 # python
 __pycache__
